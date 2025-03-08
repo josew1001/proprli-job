@@ -29,7 +29,6 @@ Este repositório contém a implementação de um ambiente de desenvolvimento **
 - **PostgreSQL** (Banco de Dados)
 - **Docker** (Gerenciamento de Containers)
 - **Nginx** (Servidor Web)
-- **Node.js** (Gerenciamento de pacotes front-end)
 
 ## 📥 Instalação
 
